@@ -1,0 +1,14 @@
+{
+  "name": "resort-booking",
+  "version": "1.0.0",
+  "private": true,
+  "workspaces": ["backend", "frontend"],
+
+  "scripts": {
+    "dev": "bash run.sh",
+    "test": "npm run test --workspace backend && npm run test --workspace frontend"
+  },
+  "dependencies": {
+    "concurrently": "^9.2.1"
+  }
+}
