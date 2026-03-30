@@ -130,7 +130,7 @@ I explained my AI workflow exlucively here: (./AI.md).
 
 ## Screenshot
 ![Loaded map](./map.png)
-![Booking successful](./screenshot.png)
-![Booking failed](./screenshot.png)
-![Cabana already booked](./screenshot.png)
-![Map after cabana is booked](./screenshot.png)
+![Booking successful](./booking%20successful.png)
+![Booking failed](./booking%20failed.png)
+![Cabana already booked](./Cabana%20booked.png)
+![Map after cabana is booked](./booked%20cabana%20on%20map.png)
